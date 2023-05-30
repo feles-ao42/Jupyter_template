@@ -1,0 +1,6 @@
+/data/*
+!/data/.gitkeep
+/ipynb/*
+.idea
+notebook/IMAGE/*
+.DS_Store
